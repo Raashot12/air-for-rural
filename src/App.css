@@ -178,6 +178,9 @@ small {
   background-repeat: no-repeat;
   background-position: center;
  background-size: cover;
+     display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .home-header-text {
@@ -197,7 +200,6 @@ small {
 }
 
 .header-text-section {
-  padding-top: 175px;
   text-align: center;
 }
 
