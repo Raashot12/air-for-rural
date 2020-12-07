@@ -1,0 +1,12 @@
+.spacing{
+	text-align: center;
+}
+
+:local(.navbar) {
+  background:#2E5F91;
+  color:black !important;
+}
+
+:local(.navitem) {
+  color:black !important;
+}
