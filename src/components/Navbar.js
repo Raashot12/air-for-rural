@@ -1,7 +1,7 @@
 import React from 'react';
 import * as ReactBootStrap from "react-bootstrap";
 import {
-	BrowserRouter as Router,
+	BrowserRouter as 
 	Link
 } from "react-router-dom";
 import logo from "../logo-aiforrural2.png";
